@@ -1,7 +1,13 @@
 **/obj
 **/bin
+**/dist
+**/build
+**/nbproject
+**/test
 **/*.cbp
 **/*.layout
 **/*.depend
 **/*.o
 **/*.exe
+**/*.xml
+**/*.mf
